@@ -31,3 +31,4 @@ begin
 rescue Timeout::Error
   puts "No Global Cache` units detected."
 end
+gets
